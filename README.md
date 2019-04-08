@@ -1,5 +1,5 @@
 # Sklearn
-These are some of the Sklearn's regression models and classifiers such as:
+Some of the Sklearn's regression models and classifiers such as:
 
 - Linear Regression
 - Polynomial Regression
